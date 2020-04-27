@@ -1,5 +1,5 @@
 import random
-# game set up
+# game set up 
 print("welcome to the guessing game")
 # user has 3 guesses before losing the game
 guesses_number = 3
