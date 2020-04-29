@@ -1,4 +1,4 @@
-# # create a list of numbers with comprehentions
+# # create a list of numbers with comprehention
 # numbers = [n for n in range(1,10)]
 # print(numbers)
 
